@@ -1,0 +1,19 @@
+C:\Users\casper\Desktop\veriyapıları\ö\ö\bin\Debug\ö.exe.config
+C:\Users\casper\Desktop\veriyapıları\ö\ö\bin\Debug\ö.exe
+C:\Users\casper\Desktop\veriyapıları\ö\ö\bin\Debug\ö.pdb
+C:\Users\casper\Desktop\veriyapıları\ö\ö\obj\Debug\ö.csprojResolveAssemblyReference.cache
+C:\Users\casper\Desktop\veriyapıları\ö\ö\obj\Debug\ö.Form1.resources
+C:\Users\casper\Desktop\veriyapıları\ö\ö\obj\Debug\ö.Properties.Resources.resources
+C:\Users\casper\Desktop\veriyapıları\ö\ö\obj\Debug\ö.csproj.GenerateResource.Cache
+C:\Users\casper\Desktop\veriyapıları\ö\ö\obj\Debug\ö.exe
+C:\Users\casper\Desktop\veriyapıları\ö\ö\obj\Debug\ö.pdb
+E:\veri yapıları ders notları\veriyapıları\ö\ö\bin\Debug\ö.exe.config
+E:\veri yapıları ders notları\veriyapıları\ö\ö\bin\Debug\ö.exe
+E:\veri yapıları ders notları\veriyapıları\ö\ö\bin\Debug\ö.pdb
+E:\veri yapıları ders notları\veriyapıları\ö\ö\obj\Debug\ö.csproj.AssemblyReference.cache
+E:\veri yapıları ders notları\veriyapıları\ö\ö\obj\Debug\ö.Form1.resources
+E:\veri yapıları ders notları\veriyapıları\ö\ö\obj\Debug\ö.Properties.Resources.resources
+E:\veri yapıları ders notları\veriyapıları\ö\ö\obj\Debug\ö.csproj.GenerateResource.cache
+E:\veri yapıları ders notları\veriyapıları\ö\ö\obj\Debug\ö.csproj.CoreCompileInputs.cache
+E:\veri yapıları ders notları\veriyapıları\ö\ö\obj\Debug\ö.exe
+E:\veri yapıları ders notları\veriyapıları\ö\ö\obj\Debug\ö.pdb
